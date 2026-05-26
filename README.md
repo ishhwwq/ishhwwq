@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&text=HOLA%20THIS%20IS%20ISHANI&fontSize=46&fontColor=f0f6fc&fontAlign=50&fontAlignY=45&desc=AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Generative%20AI%20%C2%B7%20MLOps&descSize=15&descColor=6e7681&descAlign=50&descAlignY=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&text=HOLA%20THIS%20IS%20ISHANI&fontSize=46&fontColor=f0f6fc&fontAlign=50&fontAlignY=45descSize=15&descColor=6e7681&descAlign=50&descAlignY=70"/>
 
 <br/>
 
@@ -34,10 +34,6 @@ I care less about building demos and more about understanding how intelligent sy
 </td>
 </tr>
 </table>
-
-<br/>
-
----
 
 ---
 
