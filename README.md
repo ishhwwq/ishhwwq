@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&text=HOLLATHISISESHANI%20&fontSize=46&fontColor=f0f6fc&fontAlign=50&fontAlignY=45&desc=AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Generative%20AI%20%C2%B7%20MLOps&descSize=15&descColor=6e7681&descAlign=50&descAlignY=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&text=HOLA%20THIS%20IS%20ISHANI&fontSize=46&fontColor=f0f6fc&fontAlign=50&fontAlignY=45&desc=AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Generative%20AI%20%C2%B7%20MLOps&descSize=15&descColor=6e7681&descAlign=50&descAlignY=70"/>
 
 <br/>
 
@@ -52,40 +52,25 @@ I care less about building demos and more about understanding how intelligent sy
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=c%2B%2B&logoColor=00599C)
-![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
+<img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,java&theme=dark" />
 
-<br/>
+<br/><br/>
 
 **AI / Machine Learning**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=PyTorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=TensorFlow&logoColor=FF6F00)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E)
-![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=flat-square&logo=mlflow&logoColor=0194E2)
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,mlflow&theme=dark" />
 
-<br/>
+<br/><br/>
 
 **Data & Visualization**
 
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=4dabcf)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=e70488)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=flat-square&logo=python&logoColor=11557c)
-![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=flat-square&logo=plotly&logoColor=3F4F75)
-![SciPy](https://img.shields.io/badge/SciPy-0d1117?style=flat-square&logo=scipy&logoColor=0C55A5)
+<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,plotly,scipy&theme=dark" />
 
-<br/>
+<br/><br/>
 
 **Web & Backend**
 
-![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=092E20&labelColor=0d1117&color=0d1117)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=6DA55F)
-![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=flat-square&logo=express&logoColor=61DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-0d1117?style=flat-square&logo=socket.io&logoColor=white)
-![Jinja](https://img.shields.io/badge/Jinja-0d1117?style=flat-square&logo=jinja&logoColor=b41717)
+<img src="https://skillicons.dev/icons?i=django,nodejs,express,socketio&theme=dark" />
 
 ---
 
