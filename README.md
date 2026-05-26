@@ -1,15 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1e,50:0d1f3c,100:0a0f1e&height=120&text=HOLA%20THIS%20IS%20ISHANI&fontSize=46&fontColor=f0f6fc&fontAlign=50&fontAlignY=55&fontFamily=Raleway"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a3a5c,100:0a192f&height=3"/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ishhwwq&style=flat-square&color=2d6a9f&label=Profile+Views)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-ishhwwq-f0f6fc?style=flat-square&logo=github&logoColor=white&color=0d1f3c)](https://github.com/ishhwwq)
-
-</div>
-
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
