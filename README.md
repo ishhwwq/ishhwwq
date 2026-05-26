@@ -1,16 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&text=HOLA%20THIS%20IS%20ISHANI&fontSize=46&fontColor=f0f6fc&fontAlign=50&fontAlignY=45&desc=AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Generative%20AI%20%C2%B7%20MLOps&descSize=15&descColor=6e7681&descAlign=50&descAlignY=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1e,50:0d1f3c,100:0a0f1e&height=120&text=HOLA%20THIS%20IS%20ISHANI&fontSize=46&fontColor=f0f6fc&fontAlign=50&fontAlignY=55"/>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a3a5c,100:0a192f&height=3"/>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ishhwwq&style=flat-square&color=6e7681&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=ishhwwq&style=flat-square&color=2d6a9f&label=Profile+Views)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-ishhwwq-f0f6fc?style=flat-square&logo=github&logoColor=white)](https://github.com/ishhwwq)
+[![GitHub](https://img.shields.io/badge/GitHub-ishhwwq-f0f6fc?style=flat-square&logo=github&logoColor=white&color=0d1f3c)](https://github.com/ishhwwq)
 
 </div>
-
-<br/>
 
 <table width="100%">
 <tr>
@@ -34,56 +32,19 @@ I care less about building demos and more about understanding how intelligent sy
 
 ### GitHub Stats
 
-<img width="100%" src="https://github-readme-stats.shion.dev/api?username=ishhwwq&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff&title_color=f0f6fc&text_color=6e7681&bg_color=0d1117"/>
-
-<img width="100%" src="https://streak-stats.demolab.com/?user=ishhwwq&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=6e7681&sideLabels=6e7681&dates=6e7681&background=0d1117"/>
+<img width="100%" src="https://github-readme-stats.shion.dev/api?username=ishhwwq&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=4a90c4&title_color=f0f6fc&text_color=7a9fc0&bg_color=0a0f1e"/>
+<img width="100%" src="https://streak-stats.demolab.com/?user=ishhwwq&theme=github-dark-blue&hide_border=true&ring=2d6a9f&fire=4a90c4&currStreakLabel=7a9fc0&sideLabels=7a9fc0&dates=7a9fc0&background=0a0f1e"/>
 
 </td>
 </tr>
 </table>
 
-<br/>
-
----
-
-### Tech Stack
-
-<br/>
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,java&theme=dark" />
-
-<br/><br/>
-
-**AI / Machine Learning**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,mlflow&theme=dark" />
-
-<br/><br/>
-
-**Data & Visualization**
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,plotly,scipy&theme=dark" />
-
-<br/><br/>
-
-**Web & Backend**
-
-<img src="https://skillicons.dev/icons?i=django,nodejs,express,socketio&theme=dark" />
-
----
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,100:1a3a5c&height=3"/>
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ishhwwq&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=f0f6fc&text_color=6e7681&bg_color=0d1117"/>
+<img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ishhwwq&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=f0f6fc&text_color=7a9fc0&bg_color=0a0f1e"/>
 
 </div>
 
-<br/>
-
-<div align="center">
-<sub>— Kolkata, India —</sub>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a192f,50:0d1f3c,100:0a192f&height=40&text=Kolkata%2C%20India&fontSize=13&fontColor=7a9fc0&fontAlignY=55"/>
