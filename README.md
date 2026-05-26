@@ -2,13 +2,6 @@
 
 <br/>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ishhwwq&style=flat-square&color=6e7681&label=Profile+Views)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-ishhwwq-f0f6fc?style=flat-square&logo=github&logoColor=white)](https://github.com/ishhwwq)
-
-</div>
 
 <br/>
 
@@ -45,32 +38,6 @@ I care less about building demos and more about understanding how intelligent sy
 <br/>
 
 ---
-
-### Tech Stack
-
-<br/>
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,java&theme=dark" />
-
-<br/><br/>
-
-**AI / Machine Learning**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,mlflow&theme=dark" />
-
-<br/><br/>
-
-**Data & Visualization**
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,plotly,scipy&theme=dark" />
-
-<br/><br/>
-
-**Web & Backend**
-
-<img src="https://skillicons.dev/icons?i=django,nodejs,express,socketio&theme=dark" />
 
 ---
 
