@@ -16,7 +16,7 @@
 
 ### About Me
 
-Third-year BCA student building at the intersection of Generative AI, Deep Learning, and MLOps. My focus is on the full model lifecycle — from architecture and training through deployment, monitoring, and scaling in production.
+Third-year BCA student building at the intersection of Generative AI, Deep Learning, MLOps, and Data Science. My focus is on the full model lifecycle — from data analysis and model architecture through training, deployment, monitoring, and scaling in production.
 
 I care less about building demos and more about understanding how intelligent systems are engineered to actually work at scale.
 
@@ -24,7 +24,8 @@ I care less about building demos and more about understanding how intelligent sy
 - LLMs, RAG pipelines, and fine-tuning
 - MLOps — experiment tracking, model serving, CI/CD
 - Deep Learning architectures and optimization
-- End-to-end data science pipelines
+- Data Science — EDA, statistical analysis, and insights
+- End-to-end data pipelines and visualization
 
 </td>
 <td width="5%"></td>
